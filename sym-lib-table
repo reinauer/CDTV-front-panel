@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CDTV-panel")(type "KiCad")(uri "${KIPRJMOD}/CDTV-panel.kicad_sym")(options "")(descr ""))
+)
